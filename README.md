@@ -1,3 +1,9 @@
+# Description
+
+This code is based on this simple [react tutorial](https://reactjs.org/tutorial/tutorial.html#function-components).\
+This is an implementation of the tic-tac-toe game in react.js.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
